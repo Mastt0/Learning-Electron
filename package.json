@@ -1,0 +1,22 @@
+{
+  "name": "learning-electron",
+  "version": "1.0.0",
+  "description": "Building an Electron App for Learning Purposes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RainDripz/Learning-Electron.git"
+  },
+  "author": "RainDripz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RainDripz/Learning-Electron/issues"
+  },
+  "homepage": "https://github.com/RainDripz/Learning-Electron#readme",
+  "devDependencies": {
+    "electron": "^23.1.2"
+  }
+}
